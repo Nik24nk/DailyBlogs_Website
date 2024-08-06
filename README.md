@@ -14,7 +14,7 @@ How to Start Application?
 
 There are some instruction to run this application your local system....
 
-step-1: clone this code in your system using git clone in your terminal
-step-2: open index.js file in your terminal
-step-3: run commend npm install
-step-4: start server using nodemon index.js 
+step-1: clone this code in your system using git clone in your terminal.
+step-2: open index.js file in your terminal.
+step-3: run commend npm install.
+step-4: start server using nodemon index.js.
