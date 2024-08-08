@@ -1,7 +1,7 @@
 # DailyBlogs
 
 DailyBlogs is a Blog website which is built from the scratch and not a clone of any website out there on internet.The application will allow users to create and view blog posts. Posts will not persist between sessions as no database is used in this version of the application. 
-This is built using *_Node.js, Express.js, EJS, Html, Css, Javascript, Bootstrap_**.
+This is built using **_Node.js, Express.js, EJS, Html, Css, Javascript, Bootstrap_**.
 
 ## Features:
 1. **Post Creation:** Users should be able to create new posts.
